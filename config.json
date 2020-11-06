@@ -1,0 +1,5 @@
+{
+	"MONGO_DB":"mongodb+srv://realm:root@rhombus.nyku0.mongodb.net/Guild?retryWrites=true&w=majority",
+	"DISCORD_TOKEN":"NzYzOTg2MDgwNjg0MDQ4NDI0.X3_rew.VGysCu7Qy55SbhCO9wgfjZEcY4I",
+	"DISCORD_OWNER_ID":"694846151773519944"
+}
